@@ -1,0 +1,6 @@
+[
+  {
+    "name": "Docker-Website",
+    "imageUri": "916015747809.dkr.ecr.us-east-2.amazonaws.com/php:latest"
+  }
+]
